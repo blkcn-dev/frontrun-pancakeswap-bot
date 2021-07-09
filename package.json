@@ -4,6 +4,7 @@
   "description": "pancakeswap front-run bot",
   "main": "frontrun.js",
   "scripts": {
+    "start": "node frontrun.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mayo",
