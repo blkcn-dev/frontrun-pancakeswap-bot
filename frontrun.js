@@ -1,5 +1,5 @@
 /**
- * Perform a front-running attack on uniswap
+ * Perform a front-running attack on pancakeswap or uniswap
 */
 //const fs = require('fs');
 var Web3 = require('web3');
